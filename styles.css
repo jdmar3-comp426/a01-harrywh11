@@ -93,3 +93,8 @@ p > a{
     text-align: center;
     color: silver;
 }
+
+div ul{
+    text-align: left;
+    color: rgb(109, 24, 24);
+}
